@@ -1,0 +1,8 @@
+﻿.Language=English,English (English)
+.PluginContents=IBSOx32
+
+@Contents
+$ #IBSOx32#
+  This plugin for FAR Manager is intended for ABS IBSO 
+
+  Plugin is written in C language (as majority asked).

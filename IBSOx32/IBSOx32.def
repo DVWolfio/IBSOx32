@@ -1,0 +1,7 @@
+LIBRARY        IBSOx32
+; DESCRIPTION    'IBSOx32 Far Plugin'
+EXPORTS
+  GetGlobalInfoW
+  SetStartupInfoW
+  GetPluginInfoW
+  OpenW
