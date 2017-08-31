@@ -35,10 +35,19 @@
     <ClCompile Include="IBSOx32.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="IBSOPlugin.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="IBSOx32.def">
       <Filter>Source Files</Filter>
+    </None>
+    <None Include="IBSOENG.LNG">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="IBSORUS.LNG">
+      <Filter>Resource Files</Filter>
     </None>
   </ItemGroup>
   <ItemGroup>
